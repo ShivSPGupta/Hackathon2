@@ -1,8 +1,6 @@
 # TrailsBlazer's DEV
 Team  Member
 Shiv Shankar Prasad Gupta (Team Leader)
-Prakhar Panday
-Vaishali Tiwari
 
 
 
